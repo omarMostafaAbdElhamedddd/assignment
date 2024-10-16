@@ -52,3 +52,6 @@ Add product search functionality.
 Implement an offline-first strategy to allow syncing product data when the user reconnects to the internet.
 Add more advanced animations.
 Improve test coverage with unit and widget tests.
+
+Conclusion
+This project demonstrates my understanding of Flutter, state management using Provider and Bloc, backend integration with APIs and Firebase, and the MVVM design pattern. Simple animations were also added to enhance the user experience. Despite the time constraints, I successfully implemented the core features and ensured the app is functional with room for future improvements.
